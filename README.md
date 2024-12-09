@@ -22,13 +22,12 @@ Features
 	1.	Visit the homepage to explore our design galleries and tools.
 	2.	Create an account to save your favorite ideas and access personalized design services.
 	3.	Use the contact form to reach out to our team or schedule a consultation.
-
+	
  Technologies Used
 	•	Frontend: HTML, CSS, JavaScript
 	•	Backend: Node.js, Express.js
-	•	Database: MongoDB
-	•	Design Framework: Bootstrap / TailwindCSS
-	•	Deployment: Hosted on [Platform Name] (e.g., AWS, Vercel)
+	•	Design Framework: Bootstrap
+	•	Deployment: Hosted on [Github] 
 
 Contributing
 
@@ -36,7 +35,7 @@ We welcome contributions to enhance the functionality and aesthetics of Interior
 	•	Submit feature requests or report bugs through the Issues tab.
 	•	Fork the repository and create a pull request with your enhancements.
 
- Contact
+ Contact: 9105725631 
 
 For inquiries or feedback, reach out via:
 	•	Email: support@interiorvision.com
